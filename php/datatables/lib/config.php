@@ -13,10 +13,10 @@ ini_set('display_errors', '1');
  */
 $sql_details = array(
 	"type" => "Mysql",
-	"user" => "root",
-	"pass" => "01601749962",
+	"user" => "username",
+	"pass" => "password",
 	"host" => "localhost",
 	"port" => "",
-	"db"   => "TNB"
+	"db"   => "db_name"
 );
 
