@@ -1,9 +1,9 @@
 <?php
 
    $mysqlhost="localhost";
-   $mysqluser="root";
-   $mysqlpasswd="01601749962";
-   $mysqldbname="TNB";
+   $mysqluser="username";
+   $mysqlpasswd="password";
+   $mysqldbname="db_name";
    $mysqltable="USERS";
    $mysqlpwd="USER_PASSWORD";
    $mysqlname="USER_NAME";
