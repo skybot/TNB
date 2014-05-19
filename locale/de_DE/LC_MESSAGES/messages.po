@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TNB\n"
+"POT-Creation-Date: 2014-04-28 21:01+0100\n"
+"PO-Revision-Date: 2014-04-28 21:06+0100\n"
+"Last-Translator: Robert Schüttze <robert.schuetze@gmail.com>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Volumes/GitHub-Projekte/TNB\n"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:36
+#: /Volumes/GitHub-Projekte/TNB/index.php:158
+msgid "Manage Events"
+msgstr "Veranstaltungen"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:57
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:185
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:349
+msgid "Event title"
+msgstr "Veranstaltungs Titel"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:63
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:187
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:359
+msgid "Event start"
+msgstr "Veranstaltungs Start"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:70
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:189
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:370
+msgid "Trainer"
+msgstr "Trainer"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:83
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:192
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:392
+msgid "Meeting / Training"
+msgstr "Besprechung / Schulung"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:86
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:396
+msgid "Meeting"
+msgstr "Meeting"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:87
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:397
+msgid "Training"
+msgstr "Schulung"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:92
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:186
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:354
+msgid "Event description"
+msgstr "Veranstaltungs Beschreibung"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:98
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:188
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:364
+msgid "Event end"
+msgstr "Veranstaltungs Ende"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:105
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:190
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:376
+msgid "Room"
+msgstr "Raum"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:118
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:191
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:383
+msgid "Internal / External"
+msgstr "Intern / Extern"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:121
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:387
+msgid "Internal"
+msgstr "Intern"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:122
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:388
+msgid "Externel"
+msgstr "Extern"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:132
+msgid "Save"
+msgstr "Sichern"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/events.php:163
+msgid "Event Information"
+msgstr "Event Informationen"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:25
+msgid "Admin Information"
+msgstr "Administrator Informationen"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:47
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:148
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:38
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:198
+msgid "First name"
+msgstr "Vorname"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:48
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:153
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:39
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:203
+msgid "Last name"
+msgstr "Nachname"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:49
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:158
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:40
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:208
+msgid "Telephone"
+msgstr "Telefon"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:50
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:163
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:41
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:214
+msgid "Gender"
+msgstr "Geschlecht"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:166
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:217
+msgid "Man"
+msgstr "Mann"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/admins.php:167
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:218
+msgid "Women"
+msgstr "Frau"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:25
+msgid "Display Information"
+msgstr "Display Informationen"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:47
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:168
+msgid "Display name"
+msgstr "Display Name"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:48
+msgid "Count rooms"
+msgstr "Anzahl der Räume"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:49
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:178
+msgid "Room 1"
+msgstr "Raum 1"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:50
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:184
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:197
+msgid "Direction Room 1"
+msgstr "Richting Raum 1"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:51
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:191
+msgid "Room 2"
+msgstr "Raum 2"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:52
+msgid "Direction Room 2"
+msgstr "Richting Raum 2"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:173
+msgid "How Many Rooms on Display?"
+msgstr "Wie viele Räume sollen auf dem Display sein?"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:187
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:200
+msgid "left"
+msgstr "links"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:188
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/displays.php:201
+msgid "Right"
+msgstr "rechts"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:25
+msgid "Room Management"
+msgstr "Räume"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:47
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:166
+msgid "Room name"
+msgstr "Raum Name"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:48
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:171
+msgid "Room number"
+msgstr "Raum Nummer"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:49
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:176
+msgid "Room admin"
+msgstr "Raum Verantwortlicher"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:50
+#: /Volumes/GitHub-Projekte/TNB/ajax/setup/rooms.php:182
+msgid "Room space"
+msgstr "Raum Plätze"
+
+#: /Volumes/GitHub-Projekte/TNB/ajax/trainer.php:16
+msgid "Trainer Information"
+msgstr "Trainer Information"
+
+#: /Volumes/GitHub-Projekte/TNB/index.php:65
+msgid "TAC NOTICE BORD"
+msgstr "TAC NOTICE BORD"
+
+#: /Volumes/GitHub-Projekte/TNB/index.php:155
+msgid "Home"
+msgstr "Home"
+
+#: /Volumes/GitHub-Projekte/TNB/index.php:161
+msgid "Manage Trainer"
+msgstr "Trainer"
+
+#: /Volumes/GitHub-Projekte/TNB/index.php:165
+msgid "Setup"
+msgstr "Setup"
+
+#: /Volumes/GitHub-Projekte/TNB/index.php:168
+msgid "Manage Rooms"
+msgstr "Raumverwaltung"
+
+#: /Volumes/GitHub-Projekte/TNB/index.php:172
+msgid "Manage Admins"
+msgstr "Admins"
+
+#: /Volumes/GitHub-Projekte/TNB/index.php:175
+msgid "Manage Displays"
+msgstr "Türschilder"
+
+#: /Volumes/GitHub-Projekte/TNB/index.php:180
+msgid "Control Display"
+msgstr "Türschild Kontrolle"
+
+#: /Volumes/GitHub-Projekte/TNB/login.php:89
+msgid "TAC NOTICE BOARD"
+msgstr "TAC NOTICE BORD"
+
+#: /Volumes/GitHub-Projekte/TNB/login.php:108
+msgid "Sign In"
+msgstr "Anmelden"
+
+#: /Volumes/GitHub-Projekte/TNB/login.php:114
+msgid "Username"
+msgstr "Benutzername"
+
+#: /Volumes/GitHub-Projekte/TNB/login.php:117
+msgid "Please enter username"
+msgstr "Bitte Benutzernamen eingeben "
+
+#: /Volumes/GitHub-Projekte/TNB/login.php:121
+msgid "Password"
+msgstr "Passwort"
+
+#: /Volumes/GitHub-Projekte/TNB/login.php:124
+msgid "Enter your password"
+msgstr "Bitte Passwort eingeben"
+
+#: /Volumes/GitHub-Projekte/TNB/login.php:130
+msgid "Stay signed in"
+msgstr "Angemeldet bleiben"
+
+#: /Volumes/GitHub-Projekte/TNB/login.php:135
+msgid "Sign in"
+msgstr "Anmelden"
+
+#, fuzzy
+#~ msgid "Meeting / Event"
+#~ msgstr "Meeting"
+
+#~ msgid "Event type"
+#~ msgstr "Varanstaltungs Typ"
+
+#~ msgid "Event organisation"
+#~ msgstr "Veranstaltungs Art"
+
+#~ msgid "Event oranisation"
+#~ msgstr "Veranstaltungs Organisation"
